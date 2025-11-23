@@ -18669,10 +18669,10 @@
     "repo": "TGRRRR/Canvas-link-to-group"
   },
   {
-    "id": "claude-ai-copilot",
-    "name": "Claude AI Copilot",
+    "id": "obsidian-claude-ai-copilot",
+    "name": "Claude AI Copilot for Obsidian",
     "author": "Eric Anderson",
-    "description": "Ask Anthropic's Claude to make changes to your current note. Uses your own Anthropic API key.",
+    "description": "Claude AI powered vault assistant that can edit notes, create files, and organize your entire vault using natural language.",
     "repo": "aroc/claude-ai-copilot"
   }
 ]
